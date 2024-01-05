@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0077cc; /* Dark Blue */
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+#registeredPetsCount {
+    background-color: #ffa07a; /* Light Salmon */
+    color: #333;
+    padding: 10px;
+}
+
+#petNamesList {
+    background-color: #87ceeb; /* Sky Blue */
+    color: #333;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
